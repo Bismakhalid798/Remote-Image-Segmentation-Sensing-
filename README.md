@@ -95,9 +95,9 @@ This repository provides a comprehensive pipeline for semantic segmentation of h
 * **Observations**: While the model demonstrated learning capability, the low Mean IoU suggests challenges in accurately segmenting certain classes, possibly due to class imbalance or label noise.
 
 ---
-### Models: 
-([https://github.com/Bismakhalid798/Remote-Image-Sensing-by-Segmentation/blob/main/UNET_PfCE.h5])
-([https://github.com/Bismakhalid798/Remote-Image-Sensing-by-Segmentation/blob/main/satellite_standard_unet_100epochs.hdf5])
+### Model files are present in these links: 
+https://github.com/Bismakhalid798/Remote-Image-Sensing-by-Segmentation/blob/main/UNET_PfCE.h5
+https://github.com/Bismakhalid798/Remote-Image-Sensing-by-Segmentation/blob/main/satellite_standard_unet_100epochs.hdf5
 
 ## 🔍 Conclusion & Future Work
 
