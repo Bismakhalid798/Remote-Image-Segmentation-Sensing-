@@ -102,8 +102,9 @@ Both experiments highlight the challenges in semantic segmentation of satellite 
 
 * Implementing advanced architectures like Attention U-Net or ResU-Net.
 * Applying data augmentation techniques to enhance model robustness.
-* Exploring different loss functions or class weighting strategies to address class imbalance.([ResearchGate][4])
+* Exploring different loss functions or class weighting strategies to address class imbalance. ([ResearchGate][4])
 
+Lastly, the IoU and results percentage might be low. But the segmented image generated from the model is close to the one present in ground truth image. 
 ---
 
 ## 📎 References
